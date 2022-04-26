@@ -7,6 +7,6 @@ int a=43;
 int b=7;
 int modulus;
 modulus=a%b;
-        System.out.println("The modulus of a and b is: "+modulus);
+        System.out.println("The  modulus of a and b is: "+modulus);
     }
 }

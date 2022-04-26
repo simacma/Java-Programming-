@@ -6,6 +6,7 @@ public class JavaQuestion7 {
         int feet=50;
         double inch=0;
         inch=feet*12;
-        System.out.println("The inch value= "+ inch);
+        System.out.println("The inch   value= "+ inch);
+
     }
 }

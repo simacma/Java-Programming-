@@ -8,7 +8,7 @@ public class JavaQuestion5 {
     double rate=12.5;
     double interest=0;
     interest=principal*time*rate/100;
-        System.out.println("The interest = "+interest);
+        System.out.println("The  interest = "+interest);
 
 
     }
